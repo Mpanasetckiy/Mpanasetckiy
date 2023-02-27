@@ -1,10 +1,13 @@
 <h1 align="left">Hey 👋 I'm Maks</h1>
 
+
 ###
 
 <h2 align="left">About me</h2>
 
 ###
+
+<a href="https://www.codewars.com/users/Mpanasetckiy"><img src="https://www.codewars.com/users/Mpanasetckiy/badges/large"/></a>
 
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: ...</p>
 
@@ -36,8 +39,8 @@
 </div>
 
 ###
-
 <div align="center">
+ 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Mpanasetckiy" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Mpanasetckiy" height="150" alt="languages graph"  />
 </div>
