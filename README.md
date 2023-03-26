@@ -9,7 +9,7 @@
 
 <a href="https://www.codewars.com/users/Mpanasetckiy"><img src="https://www.codewars.com/users/Mpanasetckiy/badges/large"/></a>
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript<br>🎯 Goals: ...</p>
 
 ###
 
