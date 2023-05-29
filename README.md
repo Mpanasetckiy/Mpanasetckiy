@@ -13,7 +13,7 @@
 
 
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React JS<br>🎯 Goals: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Node.js and MongoDB<br>🎯 Goals: ...</p>
 
 ###
 
@@ -29,9 +29,11 @@
   <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52"  alt="react logo"  /></a>
-   <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/>
+   <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/></a>
+  <a href="https://www.mongodb.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
 </div>
-</a>
+
  
 ###
 
