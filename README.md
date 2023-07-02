@@ -1,27 +1,27 @@
-<h1 align="left">Hey 👋 I'm Maks</h1>
+<h1 align="center">Hey 👋 I'm Maks</h1>
+
+
+###
+<h1 align="center"><a href="https://www.codewars.com/users/Mpanasetckiy"><img src="https://www.codewars.com/users/Mpanasetckiy/badges/large"/></a></h1>
 
 
 ###
 
-<a href="https://www.codewars.com/users/Mpanasetckiy"><img src="https://www.codewars.com/users/Mpanasetckiy/badges/large"/></a>
-
-###
-
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
 
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Node.js and MongoDB<br>🎯 Goals: ...</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Node.js and MongoDB<br>🎯 Goals: ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"         height="40" width="52" alt="visualstudio logo"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -37,11 +37,11 @@
  
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mpanasetckiy/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
   <a href="https://www.facebook.com/mpanasetckiy" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
 </div>
