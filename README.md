@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Maks</h1>
-
+<p align="center">I'm a passionate software developer with an eye for detail and a knack for teamwork. I'm self-taught and love exploring new technologies. I'm always hungry for knowledge and seek out additional courses to stay sharp. Seeking a dynamic software development role to contribute to a forward-thinking team.</p>
 
 ###
 <h1 align="center"><a href="https://www.codewars.com/users/Mpanasetckiy"><img src="https://www.codewars.com/users/Mpanasetckiy/badges/large"/></a></h1>
@@ -13,7 +13,7 @@
 
 
 
-<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Node.js and MongoDB<br>🎯 Goals: ...</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning Typescript<br>🎯 Goals: ...</p>
 
 ###
 
@@ -32,6 +32,12 @@
    <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/></a>
   <a href="https://www.mongodb.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  /></a>
+  <a href="https://www.postgresql.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  /></a>
+  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  /></a>
+   
+ 
+  
 </div>
 
  
