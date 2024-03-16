@@ -36,6 +36,7 @@
   <a href="https://www.postgresql.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  /></a>
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" width="52" alt="amazonwebservices logo"  /></a>
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  /></a>
+   <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="35" width="45" alt="sass logo"  /></a>
     
    
  
