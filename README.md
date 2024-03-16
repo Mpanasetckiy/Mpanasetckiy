@@ -55,6 +55,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mpanasetckiy&&style=flat-square&color=blue"/>
+</div>
+
+###
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Mpanasetckiy" height="150" alt="stats graph"  />
