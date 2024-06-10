@@ -17,31 +17,56 @@
 
 ###
 
-<h2 align="center">My stack</h2>
+<h2 align="center">My tech stack</h2>
 
 ###
 
-<div align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"         height="40" width="52" alt="visualstudio logo"/></a>
+<table align="center">
+  <td align="center">
+     <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudiocode logo"/></a>
+  </td>
+ <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+ </td>
+   <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+ </td>
+   <td align="center">
   <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"/></a>
+ </td>
+   <td align="center">
   <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  /></a>
+ </td>
+   <td align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+ </td>
+   <td align="center">
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52"  alt="react logo"  /></a>
+ </td>
+   <td align="center">
    <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/></a>
+ </td>
+   <td align="center">
   <a href="https://www.mongodb.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
+ </td>
+   <td align="center">
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  /></a>
+ </td>
+   <td align="center">
   <a href="https://www.postgresql.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  /></a>
+ </td>
+   <td align="center">
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" width="52" alt="amazonwebservices logo"  /></a>
+ </td>
+   <td align="center">
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  /></a>
+ </td>
+   <td align="center">
    <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="35" width="45" alt="sass logo"  /></a>
-    
-   
- 
-  
-</div>
+ </td>
+  </tr>
+</table>
 
  
 ###
@@ -50,10 +75,17 @@
 
 ###
 
-<div align="center">
+<table align="center">
+  <tr>
+     <td align="center">
   <a href="https://www.linkedin.com/in/mpanasetckiy/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+ </td>
+     <td align="center">
   <a href="https://www.facebook.com/mpanasetckiy" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
-</div>
+ </td>
+    
+  </tr>
+</table>
 
 ###
 
