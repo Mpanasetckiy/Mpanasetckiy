@@ -65,11 +65,14 @@
    <td align="center">
   <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" width="52" alt="amazonwebservices logo"  /></a>
  </td>
-   <td align="center">
+   <td >
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  /></a>
  </td>
-   <td align="center">
+   <td>
    <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="35" width="45" alt="sass logo"  /></a>
+ </td>
+ <td>
+  <a href="https://sequelize.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" width="42" alt="sequelize logo"  /></a>
  </td>
   </tr>
 </table>
@@ -78,6 +81,7 @@
 ###
 
 <h2 align="center">Connect with me</h2>
+
 
 ###
 
