@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 I'm Max</h1>
+<h1 align="center">Hey 👋 I'm Maks</h1>
 <p align="center">I'm a passionate software developer with an eye for detail and a knack for teamwork. I'm self-taught and love exploring new technologies. I'm always hungry for knowledge and seek out additional courses to stay sharp. Seeking a dynamic software development role to contribute to a forward-thinking team.</p>
 
 ###
-<h1 align="center"><a href="https://www.codewars.com/users/Mpanasetckiy"><img src="https://www.codewars.com/users/Mpanasetckiy/badges/large"/></a></h1>
+<h1 align="center"><a href="https://www.codewars.com/users/maxbmaapc"><img src="https://www.codewars.com/users/Mpanasetckiy/badges/large"/></a></h1>
 
 
 ###
